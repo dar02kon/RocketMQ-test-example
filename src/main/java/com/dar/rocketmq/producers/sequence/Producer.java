@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  * @author :wx
- * @description :
+ * @description : 顺序消息发送
  * @create :2022-09-22 21:30:00
  */
 public class Producer {
